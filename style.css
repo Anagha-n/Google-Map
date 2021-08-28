@@ -1,0 +1,18 @@
+body{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+#map{
+    margin: auto;
+    text-align: center;
+    background-color: crimson;
+    width: 95%;
+    height: 500px;
+    border-radius: 10px;
+}
